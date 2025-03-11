@@ -1,1 +1,1 @@
-# badbank1-server
+# BankServer
